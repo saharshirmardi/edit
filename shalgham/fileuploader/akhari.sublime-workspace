@@ -1,0 +1,522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"image_list"
+			],
+			[
+				"ima",
+				"image_list"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"p",
+				"POST"
+			],
+			[
+				"im",
+				"img_saved"
+			],
+			[
+				"file",
+				"fileuploader"
+			],
+			[
+				"s",
+				"settings"
+			],
+			[
+				"i",
+				"image"
+			],
+			[
+				"fiel",
+				"fileuploader"
+			],
+			[
+				"c",
+				"conf"
+			],
+			[
+				"ht",
+				"HttpResponse"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"S",
+				"STATIC_URL"
+			],
+			[
+				"sta",
+				"staticfiles_urlpatterns"
+			],
+			[
+				"urls",
+				"urlpatterns"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 2609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "urls.py",
+			"settings":
+			{
+				"buffer_size": 772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sahar/projectenv/shalgham/shalgham/settings.py",
+			"settings":
+			{
+				"buffer_size": 3207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/fileuploader/share.html",
+			"settings":
+			{
+				"buffer_size": 393,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "share.html"
+			}
+		},
+		{
+			"file": "templates/fileuploader/index.html",
+			"settings":
+			{
+				"buffer_size": 275,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/fileuploader/edit.html",
+			"settings":
+			{
+				"buffer_size": 1162,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "edit.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sahar/projectenv/shalgham",
+		"/home/sahar/projectenv/shalgham/fileuploader",
+		"/home/sahar/projectenv/shalgham/fileuploader/__pycache__",
+		"/home/sahar/projectenv/shalgham/fileuploader/templates",
+		"/home/sahar/projectenv/shalgham/fileuploader/templates/fileuploader",
+		"/home/sahar/projectenv/shalgham/media"
+	],
+	"file_history":
+	[
+		"/home/sahar/projectenv/shalgham/accounts/templates/signup.html",
+		"/home/sahar/projectenv/shalgham/accounts/views.py",
+		"/home/sahar/projectenv/shalgham/fileuploader/views.py",
+		"/home/sahar/projectenv/shalgham/accounts/urls.py",
+		"/home/sahar/projectenv/shalgham/media/save/file_oLZ4rRt.jpg",
+		"/home/sahar/projectenv/shalgham/media/save/file_y5mPTdS.jpg",
+		"/home/sahar/projectenv/shalgham/shalgham/settings.py",
+		"/home/sahar/projectenv/shalgham/media/file.jpg",
+		"/home/sahar/projectenv/shalgham/media/file_Et5Z8Kq",
+		"/home/sahar/projectenv/shalgham/media/file_zJVLo3U",
+		"/home/sahar/projectenv/shalgham/fileuploader/templates/fileuploader/index.html",
+		"/home/sahar/projectenv/shalgham/shalgham/urls.py",
+		"/home/sahar/projectenv/djangonautic/templates/about.html",
+		"/home/sahar/projectenv/djangonautic/djangonautic/templates/about.html",
+		"/home/sahar/projectenv/djangonautic/djangonautic/templates/homepage.html",
+		"/home/sahar/projectenv/djangonautic/djangonautic/templates/homepage.httml",
+		"/home/sahar/projectenv/saharsite/saharsite/urls.py",
+		"/home/sahar/projectenv/saharsite/saharsite/views.py",
+		"/home/sahar/projectenv/saharsite/saharsite/settings.py",
+		"/home/sahar/projectenv/djangosahar/djangosahar/urls.py",
+		"/home/sahar/projectenv/djangosahar/djangosahar/settings.py",
+		"/home/sahar/projectenv/djangosahar/djangosahar/wsgi.py",
+		"/home/sahar/projectenv/djangosahar/djangosahar/views.py",
+		"/home/sahar/projectenv/project/project/djangonautic/articles/admin.py",
+		"/home/sahar/projectenv/project/project/djangonautic/articles/views.py",
+		"/home/sahar/projectenv/project/project/djangonautic/articles/models.py",
+		"/home/sahar/projectenv/project/project/djangonautic/djangonautic/settings.py",
+		"/home/sahar/projectenv/project/project/djangonautic/djangonautic/urls.py",
+		"/home/sahar/projectenv/project/project/djangonautic/articles/urls.py",
+		"/home/sahar/projectenv/project/project/djangonautic/articles/templates/articles/article_list.html",
+		"/home/sahar/projectenv/project/project/djangonautic/articles/migrations/urls.py",
+		"/home/sahar/projectenv/project/project/djangonautic/djangonautic/views.py",
+		"/home/sahar/projectenv/project/project/djangonautic/templates/about.html",
+		"/home/sahar/projectenv/project/project/djangonautic/templates/homepage.html",
+		"/home/sahar/projectenv/project1/mysite/mysite/urls.py",
+		"/home/sahar/projectenv/project1/mysite/pages/views.py",
+		"/home/sahar/projectenv/project1/mysite/templates/navbar.html",
+		"/home/sahar/projectenv/project1/mysite/products/models.py",
+		"/home/sahar/projectenv/project1/mysite/templates/base.html",
+		"/home/sahar/projectenv/project1/mysite/templates/home.html",
+		"/home/sahar/projectenv/project1/mysite/fileuploader/admin.py",
+		"/home/sahar/projectenv/project1/site/mysite/Product/admin.py",
+		"/home/sahar/projectenv/project1/mysite/templates",
+		"/home/sahar/projectenv/project1/mysite/file/models.py",
+		"/home/sahar/projectenv/project1/site/mysite/mysite/settings.py",
+		"/home/sahar/projectenv/project1/site/mysite/Product/models.py",
+		"/home/sahar/Dev/trydjango/src/Site/products/models.py",
+		"/home/sahar/Dev/trydjango/src/Site/products/admin.py",
+		"/home/sahar/Dev/trydjango/src/Site/Site/settings.py",
+		"/home/sahar/Dev/trydjango/src/Site/products/apps.py",
+		"/home/sahar/Dev/trydjango/src/Site/fileuploader/models.py",
+		"/home/sahar/Desktop/trydjango"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+			"/home/sahar/projectenv/project1/mysite"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dirc",
+			"siasefid",
+			">",
+			"templates"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/sahar/projectenv/shalgham/shalgham/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1110,
+								1110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 268.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/fileuploader/share.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_name": "share.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "templates/fileuploader/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/fileuploader/edit.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"auto_name": "edit.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "akhari.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

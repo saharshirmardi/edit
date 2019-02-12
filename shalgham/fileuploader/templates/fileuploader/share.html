@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>share</title>
+	<h1>Share Your Photos!</h1>
+	<p>Welcome to the sharing page</p>
+
+</head>
+<body>
+<form action="{% url 'bck' %}" method="post" enctype="multipart/form-data">
+{% csrf_token %}
+<button type='submit'>edit new photo</button>
+</form>
+
+{% for image in images %}
+<img src='../../../media/{{image}}' /></body></html></br>
+{% endfor %}
+</body>
+</html>

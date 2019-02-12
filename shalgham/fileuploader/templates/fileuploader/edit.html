@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+<img src='../../../media/{{ax}}' >
+<form action="{% url 'ss' %}" method="post" enctype="multipart/form-data">
+{% csrf_token %}
+<button type='submit'>siasefid</button>
+</form>
+
+<form action="{% url 'cr' %}" method="post" enctype="multipart/form-data" >
+{% csrf_token %}
+<input type='number' name='arz1'>
+<input type='number' name='tul1'>
+<input type='number' name='arz2'>
+<input type='number' name='tul2'>
+<button type='submit'>crop</button>
+</form>
+
+<form action="{% url 'rt' %}" method="post" enctype="multipart/form-data">
+{% csrf_token %}
+<input type='number' name='zavie'>
+<button type='submit'>rotate</button>
+</form>
+
+<form action="{% url 'rs' %}" method="post" enctype="multipart/form-data">
+{% csrf_token %}
+<input type='number' name='andaze1'>
+<input type='number' name='andaze2'>
+<button type='submit'>resize</button>
+</form>
+
+<form action="{% url 'bck' %}" method="post" enctype="multipart/form-data">
+{% csrf_token %}
+<button type='submit'>back</button>
+</form>
+
+<form action="{% url 'shr' %}" method="post" enctype="multipart/form-data">
+{% csrf_token %}
+<button type='submit'>share</button>
+</form>
+
+
+
+
+</body>
+</html>
